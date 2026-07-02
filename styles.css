@@ -35,16 +35,11 @@ body {
   gap: 14px;
 }
 
-.logo-mark {
-  width: 48px;
-  height: 48px;
-  border-radius: 18px;
-  background: var(--soft);
-  border: 1px solid var(--border);
-  display: grid;
-  place-items: center;
-  font-size: 24px;
-}
+.logo-mark img {
+  width: 80px;
+  height: auto;
+  display: block;
+  }
 
 .eyebrow {
   margin: 0;
